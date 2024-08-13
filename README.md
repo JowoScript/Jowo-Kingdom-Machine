@@ -26,13 +26,12 @@
 </strong>
 </div>
 <br>
-#### Creator | Architecture Technology of *JowoScript, JowoStyle and Jowo Kingdom Machine
-```html
+
+#### Creator | Architecture Jowo Kingdom Machine
 Muhammad Nurcahyo Pratomo
-```
+
 #### Copyright
-```html
 PT JowoScript Technology Indonesia
-```
+
 #### License
 Licensed under privilege of Muhammad Nurcahyo Pratomo
