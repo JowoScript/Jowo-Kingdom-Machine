@@ -12,7 +12,7 @@
 </strong>
 <br>
 <strong>
-	*JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology
+	Jowo Kingdom Machine - *jS Technology
 </strong>
 <br>
 <strong>
