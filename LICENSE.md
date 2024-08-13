@@ -8,7 +8,7 @@
  * @extension : *.jkm
  *
  * Note from creator jowoscript [Muhammad Nurcahyo Pratomo]
- *  Jowo Virtual Machine drive technology with a license so not be easy pirate from other client and powerfull in paradigma. 
+ *  Jowo Kingdom Machine drive technology with a license so not be easy pirate from other client and powerfull in paradigma. 
  *
  * Technology was the breakthrough and capabilities
  * 
