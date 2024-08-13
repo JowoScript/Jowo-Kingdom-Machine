@@ -27,7 +27,7 @@
 </div>
 <br>
 
-#### Creator | Jowo Kingdom Machine
+#### Creator | Architecture Technology of Jowo Kingdom Machine
 ```html
 Muhammad Nurcahyo Pratomo
 ```
