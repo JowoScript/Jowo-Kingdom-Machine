@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.jowoscript.web.id/" target="_self">
-<img src="iconJKM for md.png" 
+<img src="iconJKM reguler.png" 
      title="Jowo Kingdom Machine - *jS Technology"
      alt="Jowo Kingdom Machine - *jS Technology"     
      height="150px" width="150px"></img>
