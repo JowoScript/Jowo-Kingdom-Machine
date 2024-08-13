@@ -27,7 +27,7 @@
 </div>
 <br>
 
-#### Creator | Architecture Technology of *JowoScript, JowoStyle and Jowo Kingdom Machine
+#### Creator | Jowo Kingdom Machine
 ```html
 Muhammad Nurcahyo Pratomo
 ```
